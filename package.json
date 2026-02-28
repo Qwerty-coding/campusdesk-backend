@@ -1,6 +1,10 @@
 {
-  "name": "campusdesk-backend",
+   "name": "campusdesk-backend",
   "version": "1.0.0",
+  "engines": {
+    "node": "18.x"
+  },
+  
   "main": "src/index.js",
   "scripts": {
     "start": "node src/index.js",
